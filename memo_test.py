@@ -32,9 +32,9 @@ def remove_space(ss, leading=1, trailing=1):
 
 import os
 
-file_a = open("data/Memo.audiolist.txt","r")
-file_b = open("data/Memo.ebooklist.txt","r")
-file_w = open("data/comm.sh","w")
+file_a = open("Memo.audiolist.txt","r")
+file_b = open("Memo.ebooklist.txt","r")
+file_w = open("comm.sh","w")
 
 print("Start...")
 
